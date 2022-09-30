@@ -1,0 +1,2 @@
+D:\study\数学建模\22\KDD\EdMot_C\x64\Debug\EdMot_C.exe
+D:\study\数学建模\22\KDD\EdMot_C(github version)\EdMot_C\x64\Debug\EdMot_C.exe
